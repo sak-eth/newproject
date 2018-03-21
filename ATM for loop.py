@@ -1,3 +1,4 @@
+#ATM program using for loop
 for x in range(3):
     balance = 50000
     pin = int(input("Enter the pin number : "))
